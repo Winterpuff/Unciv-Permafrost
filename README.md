@@ -9,6 +9,7 @@ Leader: The Frozen Witch
 Uniques:
 - Unable to capture cities.
 - May not annex cities.
+- May not found cities.
 - -50% Food consumption in capital.
 - -50% maintenance on road & railroads.
 - -1 Movement for Enemy units inside your territory
