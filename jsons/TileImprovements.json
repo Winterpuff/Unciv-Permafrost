@@ -2,7 +2,12 @@
     {
 		"name": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]", "Unpillagable", "Irremovable", "Unbuildable", "Excluded from map editor", "Turn this tile into a [Snow] tile"],
+		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]",
+					"Unpillagable",
+					"Irremovable",
+					"Unbuildable",
+					"Excluded from map editor",
+					"Turn this tile into a [Snow] tile <for [Permafrost] Civilizations>"],
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}
@@ -11,11 +16,10 @@
 	{
         "name": "Snow",
         "uniqueTo": "Permafrost",
-		"terrainsCanBeBuiltOn": ["Plains","Flood plains","Grassland","Forest","Jungle","Marsh","Man-eating tree","Hill","Plains","Tundra","Desert","Oasis"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
 		"uniques": [
 			"Turn this tile into a [Snow] tile",
-			"Cannot be built on [Snow] tiles <hidden from users>"
 		]
 	}
 ]
