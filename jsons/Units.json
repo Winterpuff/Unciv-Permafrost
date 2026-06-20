@@ -1,17 +1,15 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+    {
+        "name": "Settler",
+        "unitType": "Civilian",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"cost": 106,
+		"requiredTech": "Agriculture",
+		"uniques": ["Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population",
+            "Unavailable <in [Permafrost] cities>",
+            "[+1] population in a random city <upon founding a city> <in [Permafrost] cities>"],
+		"hurryCostModifier": 20
+    }
 ]
