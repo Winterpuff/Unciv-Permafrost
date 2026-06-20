@@ -1,5 +1,5 @@
 
-permafrost_icon.png
+game.png
 size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
