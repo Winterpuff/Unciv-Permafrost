@@ -8,8 +8,8 @@
 		"uniques": ["Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
-            "Unavailable <for [Permafrost] Civilizations>",
-		"hurryCostModifier": 20]
+            "Unavailable <for [Permafrost] Civilizations>"]
+		"hurryCostModifier": 20
     },
 	{
 		"name": "Worker",
@@ -17,7 +17,7 @@
 		"movement": 2,
 		"cost": 60,
 		"uniques": ["Can build [Land] improvements on tiles",
-				"Unavailable <for [Permafrost] Civilizations>"],
+				"Unavailable <for [Permafrost] Civilizations>"]
 	},
 	{
 		"name": "Wisp",
