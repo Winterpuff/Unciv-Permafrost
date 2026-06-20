@@ -9,7 +9,7 @@
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
             "Unavailable <for [Permafrost] Civilizations>",
-		"hurryCostModifier": 20
+		"hurryCostModifier": 20,
     },
 	{
 		"name": "Worker",
