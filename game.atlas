@@ -4,7 +4,7 @@ size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+Images/permafrost_icon
   rotate: false
   xy: 112, 4
   size: 100, 100
