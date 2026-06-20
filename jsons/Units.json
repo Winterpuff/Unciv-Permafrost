@@ -11,5 +11,13 @@
             "Unavailable <in [Permafrost] cities>",
             "[+1] population in a random city <upon founding a city> <in [Permafrost] cities>"],
 		"hurryCostModifier": 20
-    }
+    },
+	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 60,
+		"uniques": ["Can build [Land] improvements on tiles", 
+		"Can build [Snow] improvements on tiles <for [Worker] units> <in [your] tiles> <in tiles without [Snow]> <for [Permafrost] Civilizations>"],
+	},
 ]
