@@ -32,7 +32,7 @@
 		"outerColor": [219,241,253],
 		"innerColor": [255,255,255],
 		"uniqueName": "Winter",
-        "uniqueText": "Unable to capture cities \nMay not annex cities \n-50% Food consumption in capital \n-50% maintenance on road & railroads \n-1 Movement for Enemy units inside your territory", 
+        "uniqueText": "Unable to capture cities \nMay not annex cities \n Cannot build Settlers \n-50% Food consumption in capital \n-50% maintenance on road & railroads \n-1 Movement for Enemy units inside your territory", 
 		"uniques": ["Unable to capture cities",
 					"May not annex cities",
 					"Cannot build [Settler] units", 
