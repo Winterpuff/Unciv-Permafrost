@@ -33,7 +33,11 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Winter",
         "uniqueText": "Unable to capture cities \nMay not annex cities \n-50% Food consumption in capital \n-50% maintenance on road & railroads \n-1 Movement for Enemy units inside your territory", 
-		"uniques": ["Unable to capture cities", "May not annex cities", "[-50]% Food consumption by [in all cities]", "[-50]% maintenance on road & railroads", "Enemy [All] units must spend [1] extra movement points when inside your territory <Suppress warning [*contains a conditional on a unit movement unique*]>"],
+		"uniques": ["Unable to capture cities",
+					"May not annex cities",
+					"[-50]% Food consumption by [in all cities]", 
+					"[-50]% maintenance on road & railroads",
+					"Enemy [All] units must spend [1] extra movement points when inside your territory <Suppress warning [*contains a conditional on a unit movement unique*]>"],
 		"cities": ["Winterfell", "Frosthold", "Snowdrift", "Glacieston", "Icicleton", "Chillrest", "Winter Park", "Winter Haven", "Winter Springs", "Winter Beach", "Snowflake", "Mistletoe", "Alaska", "Coldwater", "Frostproof", "Comet", "Chill"],
 		"spyNames": ["Noelle", "Frost", "Ivy", "Douglas", "Zima", "Mr.Freeze", "Crystal", "Glacier", "Blanche", "Holly"]
 	}
