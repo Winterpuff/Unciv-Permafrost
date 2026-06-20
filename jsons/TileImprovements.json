@@ -1,7 +1,6 @@
 [
     {
 		"name": "City center",
-        "uniqueTo": "Permafrost",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]", "Unpillagable", "Irremovable", "Unbuildable", "Excluded from map editor", "Turn this tile into a [Snow] tile"],
         "civilopediaText": [
