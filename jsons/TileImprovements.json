@@ -12,13 +12,5 @@
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}
 		]
-	},
-	{
-        "name": "Create Snow",
-        "uniqueTo": "Permafrost",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 5,
-		"uniques": ["Turn this tile into a [Snow] tile"],
-		"shortcutKey": "s"
 	}
 ]
