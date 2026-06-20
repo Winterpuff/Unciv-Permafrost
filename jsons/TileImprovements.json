@@ -14,7 +14,7 @@
 		]
 	},
 	{
-        "name": "Snow",
+        "name": "Create Snow",
         "uniqueTo": "Permafrost",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
