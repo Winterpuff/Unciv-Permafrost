@@ -18,8 +18,7 @@
         "uniqueTo": "Permafrost",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
-		"uniques": [
-			"Turn this tile into a [Snow] tile",
-		]
+		"uniques": ["Turn this tile into a [Snow] tile",],
+		"shortcutKey": "s"
 	}
 ]
