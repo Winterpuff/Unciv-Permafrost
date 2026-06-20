@@ -17,7 +17,17 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 60,
-		"uniques": ["Can build [Land] improvements on tiles", 
-		"Can build [Snow] improvements on tiles <for [Worker] units> <in [your] tiles> <in tiles without [Snow]> <for [Permafrost] Civilizations>"],
+		"uniques": ["Can build [Land] improvements on tiles",
+				"Unavailable <for [Permafrost] Civilizations>"],
 	},
+	{
+		"name": "Wisp",
+		"unitType": "Civilian",
+		"uniqueTo": "Permafrost",
+		"replaces": "Worker",
+		"movement": 2,
+		"cost": 60,
+		"uniques": ["Can build [Land] improvements on tiles <in [your] tiles> <in [Snow] tiles>",
+			"Can build [Snow] improvements on tiles <in [your] tiles> <in tiles without [Snow]>"]
+	}
 ]
