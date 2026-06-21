@@ -9,10 +9,9 @@ Leader: The Frozen Witch
 Uniques:
 - May not annex cities.
 - May not found cities.
-- Can only build in snow tiles.
-- Can create snow tiles inside your territory (free, 4 turns).
+- Can only build in Nevermeltice tiles.
+- Can create Nevermeltice tiles inside your territory (free, 4 turns).
 - Wisp substitutes Worker unit.
 - Ice core substitutes City center as capital.
-- -50% Food consumption in capital.
-- -50% maintenance on road & railroads.
+- -100% Food consumption in capital.
 - -1 Movement for Enemy units inside your territory's Snow tiles.
