@@ -18,14 +18,14 @@
 					"Irremovable",
 					"Unbuildable",
 					"Excluded from map editor",
-					"Turn this tile into a [Snow] tile <in tiles without [Snow]>"],
+					"Turn this tile into a [Nevermeltice] tile"],
         "civilopediaText": [{"text":"Marks Permafrost's core"}]
 	},
 	{
-		"name": "Snow Seed",
+		"name": "Ice Seed",
 		"uniqueTo": "Permafrost",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 4,
-		"uniques": ["Turn this tile into a [Snow] tile"]
+		"turnsToBuild": 5,
+		"uniques": ["Turn this tile into a [Nevermeltice] tile"]
 	},
 ]
