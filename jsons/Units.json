@@ -26,6 +26,6 @@
 		"replaces": "Worker",
 		"movement": 2,
 		"cost": 60,
-		"uniques": ["Turn this tile into a [Snow] tile <in [your] tiles> <every [5] turns>"]
+		"uniques": ["Turn this tile into a [Snow] tile <every [5] turns>"]
 	},
 ]
