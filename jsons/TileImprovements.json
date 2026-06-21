@@ -10,6 +10,7 @@
 	},
 	{
 		"name": "Ice core",
+		"uniqueTo": "Permafrost",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]",
 					"Unpillagable",
@@ -18,5 +19,11 @@
 					"Excluded from map editor",
 					"Turn this tile into a [Snow] tile"],
         "civilopediaText": [{"text":"Marks Permafrost's core"}]
-	}
+	},
+	{
+		"name": "Snow Seed",
+		"uniqueTo": "Permafrost",
+		"turnsToBuild": 4,
+		"uniques": ["Turn this tile into a [Snow] tile <in [your] tiles> <in tiles without [Snow]>"]
+	},
 ]
