@@ -22,10 +22,20 @@
         "civilopediaText": [{"text":"Marks Permafrost's core"}]
 	},
 	{
-		"name": "Ice Seed",
+		"name": "Nevermeltice",
 		"uniqueTo": "Permafrost",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 5,
-		"uniques": ["Turn this tile into a [Nevermeltice] tile"]
+		"uniques": ["Irremovable",
+					"Removes removable features when built",
+					"[+1 Gold, +1 Food, +1 Production, +1 Culture, +1 Faith] <for [Permafrost] Civilizations>",
+					"Tile provides yield without assigned population <for [Permafrost] Civilizations>",
+					"Must be next to [Nevermeltice]",
+					"Does not need removal of [Land]",
+					"Turn this tile into a [Nevermeltice] tile"],
+		"civilopediaText": [
+			{"text": "The land where only those touched by Winter may thrive."},
+			{"text": "Do note that Nevermeltice must be built next to each other."}
+		]
 	},
 ]
