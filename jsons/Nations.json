@@ -29,7 +29,7 @@
         "denounced": "Swallow your words and perish.",
 		"declaringfriendship": "Be grateful, for I will allow you to be my friend.",
         
-		"outerColor": [219,241,253],
+		"outerColor": [135,206,250],
 		"innerColor": [255,255,255],
 		"uniqueName": "Winter",
         "uniqueText": "May not annex cities \n Cannot build Settlers \n Can only build on snow tiles. \n Can create snow tiles \n-50% Food consumption in capital \n-50% maintenance on road & railroads \n-1 Movement for Enemy units inside your territory", 
