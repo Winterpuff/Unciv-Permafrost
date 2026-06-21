@@ -24,6 +24,7 @@
 	{
 		"name": "Snow Seed",
 		"uniqueTo": "Permafrost",
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
 		"uniques": ["Turn this tile into a [Snow] tile"]
 	},
