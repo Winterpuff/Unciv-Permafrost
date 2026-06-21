@@ -24,6 +24,6 @@
 		"name": "Snow Seed",
 		"uniqueTo": "Permafrost",
 		"turnsToBuild": 4,
-		"uniques": ["Turn this tile into a [Snow] tile <in [your] tiles> <in tiles without [Snow]>"]
+		"uniques": ["Turn this tile into a [Snow] tile"]
 	},
 ]
