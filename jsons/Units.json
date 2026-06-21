@@ -28,19 +28,4 @@
 		"cost": 60,
 		"uniques": ["Can build [Nevermeltice] improvements on tiles <in [your] tiles>"]
 	},
-	{
-		"name": "Warrior",
-		"unitType": "Sword",
-		"replaces": "Settler <for [Permafrost] Civilizations>",
-		"movement": 2,
-		"strength": 8,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"attackSound": "nonmetalhit",
-		"civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
-		]
-	},
 ]
