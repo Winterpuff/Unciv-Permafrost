@@ -10,8 +10,7 @@
 					"Unavailable <for [Permafrost] Civilizations>",
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
-			{"text":"Appearance changes with the technological era of the owning civilization"}
-		],
+			{"text":"Appearance changes with the technological era of the owning civilization"}]
 	},
 	{
 		"name": "Ice core",
@@ -24,4 +23,3 @@
 					"Turn this tile into a [Snow] tile"],
         "civilopediaText": [{"text":"Marks Permafrost's core"}]
 	}
-]
