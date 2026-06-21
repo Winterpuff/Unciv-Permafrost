@@ -27,7 +27,7 @@
 		"movement": 2,
 		"cost": 60,
 		"uniques": ["Can build [Land] improvements on tiles <in [your] tiles> <in [Snow] tiles>",
-			"Can build [Snow] improvements on tiles <in [your] tiles> <in tiles without [Snow]>"]
+			"Can build [Snow Seed] improvements on tiles <in [your] tiles> <in tiles without [Snow]>"]
 	},
 	{
 		"name": "Warrior",
