@@ -18,23 +18,7 @@
 					"Irremovable",
 					"Unbuildable",
 					"Excluded from map editor",
-					"Turn this tile into a [Nevermeltice] tile"],
+					"Turn this tile into a [Snow] tile"],
         "civilopediaText": [{"text":"Marks Permafrost's core"}]
-	},
-	{
-		"name": "Nevermeltice",
-		"uniqueTo": "Permafrost",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 5,
-		"uniques": ["Removes removable features when built",
-					"[+1 Gold, +1 Food, +1 Production, +1 Culture, +1 Faith] <for [Permafrost] Civilizations>",
-					"Tile provides yield without assigned population <for [Permafrost] Civilizations>",
-					"Must be next to [Nevermeltice]",
-					"Does not need removal of [Land]",
-					"Cannot be built on [Nevermeltice] tiles"],
-		"civilopediaText": [
-			{"text": "The land where only those touched by Winter may thrive."},
-			{"text": "Do note that Nevermeltice must be built next to each other."}
-		]
 	}
 ]
