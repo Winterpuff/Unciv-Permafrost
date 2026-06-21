@@ -1,16 +1,12 @@
 [
-    {
-		"name": "City center",
+	{ 
+		"name": "City center", 
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]",
-					"Unpillagable",
-					"Irremovable",
-					"Unbuildable",
-					"Excluded from map editor",
-					"Unavailable <for [Permafrost] Civilizations>",
-        "civilopediaText": [
-			{"text":"Marks the center of a city"},
-			{"text":"Appearance changes with the technological era of the owning civilization"}]
+		"uniques": ["Unavailable <for [Permafrost] Civilizations>", "Unbuildable", "Unpillagable", "Irremovable"],
+		"civilopediaText": [
+			{"text": "Marks the center of a city"},
+			{"text": "Appearance changes with the technological era of the owning civilization"}
+		]
 	},
 	{
 		"name": "Ice core",
