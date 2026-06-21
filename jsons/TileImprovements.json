@@ -18,7 +18,7 @@
 					"Irremovable",
 					"Unbuildable",
 					"Excluded from map editor",
-					"Turn this tile into a [Snow] tile"],
+					"Turn this tile into a [Snow] tile <upon discovering [Agriculture] technology>"],
         "civilopediaText": [{"text":"Marks Permafrost's core"}]
 	}
 ]
