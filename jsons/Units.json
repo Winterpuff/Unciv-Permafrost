@@ -26,7 +26,8 @@
 		"replaces": "Worker",
 		"movement": 2,
 		"cost": 60,
-		"uniques": ["Can build [Nevermeltice] improvements on tiles <in [your] tiles>"]
+		"uniques": ["Can build [Nevermeltice] improvements on tiles <in [your] tiles>",
+					"Turn this tile into a [Nevermeltice] tile <every [5] turns>"]
 	},
 	{
 		"name": "Warrior",
