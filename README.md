@@ -14,4 +14,4 @@ Uniques:
 - Wisp substitutes Worker unit.
 - -50% Food consumption in capital.
 - -50% maintenance on road & railroads.
-- -1 Movement for Enemy units inside your territory
+- -1 Movement for Enemy units inside your territory's Snow tiles.
