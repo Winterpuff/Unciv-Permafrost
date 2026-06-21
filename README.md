@@ -7,7 +7,6 @@ Name: Permafrost
 Leader: The Frozen Witch
 
 Uniques:
-- Unable to capture cities.
 - May not annex cities.
 - May not found cities.
 - Can only build in snow tiles.
