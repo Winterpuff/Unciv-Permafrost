@@ -26,6 +26,6 @@
 		"replaces": "Worker",
 		"movement": 2,
 		"cost": 60,
-		"uniques": ["Can build [Nevermeltice] improvements on tiles <in [your] tiles>"]
+		"uniques": ["Turn this tile into a [Snow] tile <in [your] tiles> <in tiles without [Snow]> <every [5] turns>"]
 	},
 ]
