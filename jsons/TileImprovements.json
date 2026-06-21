@@ -32,6 +32,7 @@
 					"Tile provides yield without assigned population <for [Permafrost] Civilizations>",
 					"Must be next to [Nevermeltice]",
 					"Does not need removal of [Land]",
+					"Cannot be built on [Nevermeltice] tiles",
 		"civilopediaText": [
 			{"text": "The land where only those touched by Winter may thrive."},
 			{"text": "Do note that Nevermeltice must be built next to each other."}
