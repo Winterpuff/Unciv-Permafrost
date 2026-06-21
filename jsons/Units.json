@@ -26,8 +26,7 @@
 		"replaces": "Worker",
 		"movement": 2,
 		"cost": 60,
-		"uniques": ["Can build [Land] improvements on tiles <in [your] tiles> <in [Snow] tiles>",
-			"Can build [Snow Seed] improvements on tiles <in [your] tiles> <in tiles without [Snow]>"]
+		"uniques": ["Can build [Nevermeltice] improvements on tiles <in [your] tiles>"]
 	},
 	{
 		"name": "Warrior",
