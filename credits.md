@@ -1,2 +1,2 @@
 
-- Wisp asset from Aymen B at https://pixelrogueknight.itch.io/
+- Wisp asset from Seth at https://sethbb.itch.io/
