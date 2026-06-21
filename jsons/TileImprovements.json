@@ -11,6 +11,7 @@
 	{
 		"name": "Ice core",
 		"uniqueTo": "Permafrost",
+		"replaces": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Ensures a minimum tile yield of [+2 Food, +1 Production]",
 					"Unpillagable",
